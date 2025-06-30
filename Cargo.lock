@@ -224,7 +224,7 @@ dependencies = [
 ]
 
 [[package]]
-name = "rust-site-server"
+name = "rust-site"
 version = "0.1.0"
 dependencies = [
  "mlua",
